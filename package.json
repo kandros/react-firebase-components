@@ -1,0 +1,9 @@
+{
+  "name": "react-firebase-components",
+  "version": "0.0.1",
+  "description": "ReactJS declarative components for firebase",
+  "main": "index.js",
+  "repository": "git@github.com:kandros/react-firebase-components.git",
+  "author": "jaga santagostino <kandros5591@gmail.com>",
+  "license": "MIT"
+}
